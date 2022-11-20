@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Example Helmet Plugin
+Checks if you have a helmet on in game
